@@ -9,6 +9,7 @@ namespace AppOutputInformation
             Console.WriteLine("TMS_03-12");
             Console.WriteLine("Ich lerne C#");
             Console.WriteLine("Ich muss irgendewas schreiben");
+            Console.WriteLine("-------------------");
             Console.ReadLine();
         }
     }
