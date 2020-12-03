@@ -1,0 +1,13 @@
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.exe
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.deps.json
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.runtimeconfig.json
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.runtimeconfig.dev.json
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.dll
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\bin\Debug\netcoreapp3.1\AppOutputInformation.pdb
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.csprojAssemblyReference.cache
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.AssemblyInfoInputs.cache
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.AssemblyInfo.cs
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.csproj.CoreCompileInputs.cache
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.dll
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.pdb
+C:\Users\Silakov\source\repos\test_repo\AppOutputInformation\obj\Debug\netcoreapp3.1\AppOutputInformation.genruntimeconfig.cache
